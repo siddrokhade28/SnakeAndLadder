@@ -1,10 +1,10 @@
 import java.util.Random;
 
-public class Main {
+public class SinglePlayer {
     public static void main(String[] args) {
 
 
-        System.out.println(" ------welcome to Snake and Ladder game-------");
+        System.out.println(" ------welcome to Snake and Ladder game of single player-------");
         int numOfRoles=0;
         int totalScore=0;
        // int i =0;

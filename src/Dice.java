@@ -18,7 +18,7 @@ public class Dice {
                     startPostion = startPostion - dice;
                 } else {
                     System.out.println("it's a ladder");
-                    System.out.println("the roll is " + dice + "current position is" + startPostion);
+                    System.out.println("the roll is " + dice + " current position is " + startPostion);
                 }
                 break;
             case 3:
@@ -28,7 +28,7 @@ public class Dice {
                     startPostion = 0;
                 } else {
                     System.out.println("it's a snake");
-                    System.out.println("the roll is " + dice + "current position is" + startPostion);
+                    System.out.println("the roll is " + dice + " current position is " + startPostion);
                 }
                 break;
         }
